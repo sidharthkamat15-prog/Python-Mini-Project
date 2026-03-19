@@ -65,5 +65,3 @@ python filename.py
 
 ## 👨‍💻 Author
 - Sidharth_zen-u
-
-Your Name
